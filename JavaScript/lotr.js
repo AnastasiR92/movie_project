@@ -72,37 +72,37 @@ const movies = [
     title: "Lord of the Rings: The Fellowship of the Ring",
     genres: "Action/Adventure, Sci-Fi/Fantasy",
     year: "2001",
-    image: "../assets/images/LOTR/ring.jpg",
+    image: "assets/images/LOTR/ring.jpg",
   },
   {
     title: "Lord of the Rings: The Two Towers",
     genres: "Action/Adventure, Oscar Winners, Sci-Fi/Fantasy",
     year: "2002",
-    image: "../assets/images/LOTR/towers.jpg",
+    image: "assets/images/LOTR/towers.jpg",
   },
   {
     title: "The Lord of the Rings: The Return of the King",
     genres: "Action/Adventure, Oscar Winners, Sci-Fi/Fantasy",
     year: "2003",
-    image: "../assets/images/LOTR/king.jpg",
+    image: "assets/images/LOTR/king.jpg",
   },
   {
     title: "Hobbit: An Unexpected Journey",
     genres: "Action/Adventure, Sci-Fi/Fantasy",
     year: "2012",
-    image: "../assets/images/LOTR/journey.jpg",
+    image: "assets/images/LOTR/journey.jpg",
   },
   {
     title: "The Hobbit: The Desolation of Smaug",
     genres: "Action/Adventure, Sci-Fi/Fantasy",
     year: "2013",
-    image: "../assets/images/LOTR/smaug.jpg",
+    image: "assets/images/LOTR/smaug.jpg",
   },
   {
     title: "The Hobbit: The Battle of the Five Armies",
     genres: "Action/Adventure, Drama, Sci-Fi/Fantasy, Suspense/Thriller",
     year: "2014",
-    image: "../assets/images/LOTR/armies.jpg",
+    image: "assets/images/LOTR/armies.jpg",
   },
 ];
 
@@ -165,15 +165,15 @@ breakpoints: {
 
 
 const books = [
-  { title: "The Hobbit", year: "1937", image: "../assets/images/LOTR/hobbit.jpg" },
-  { title: "The Fellowship of the Ring", year: "1954", image: "../assets/images/LOTR/fellowship.jpg" },
-  { title: "The Two Towers", year: "1954", image: "../assets/images/LOTR/two_towers.jpg" },
-  { title: "The Return of the King", year: "1955", image: "../assets/images/LOTR/return.jpg" },
-  { title: "The Silmarillion", year: "1977", image: "../assets/images/LOTR/silmarillion.jpg" },
-  { title: "Unfinished Tales of Numenor and Middle-earth", year: "1980", image: "../assets/images/LOTR/unfinished.jpg" },
-  { title: "The Children of Hurin", year: "2007", image: "../assets/images/LOTR/children.jpg" },
-  { title: "Beren and Luthien", year: "2017", image: "../assets/images/LOTR/beren.jpg" },
-  { title: "The Fall of Gondolin", year: "2018", image: "../assets/images/LOTR/fall.jpg" },
+  { title: "The Hobbit", year: "1937", image: "assets/images/LOTR/hobbit.jpg" },
+  { title: "The Fellowship of the Ring", year: "1954", image: "assets/images/LOTR/fellowship.jpg" },
+  { title: "The Two Towers", year: "1954", image: "assets/images/LOTR/two_towers.jpg" },
+  { title: "The Return of the King", year: "1955", image: "assets/images/LOTR/return.jpg" },
+  { title: "The Silmarillion", year: "1977", image: "assets/images/LOTR/silmarillion.jpg" },
+  { title: "Unfinished Tales of Numenor and Middle-earth", year: "1980", image: "assets/images/LOTR/unfinished.jpg" },
+  { title: "The Children of Hurin", year: "2007", image: "assets/images/LOTR/children.jpg" },
+  { title: "Beren and Luthien", year: "2017", image: "assets/images/LOTR/beren.jpg" },
+  { title: "The Fall of Gondolin", year: "2018", image: "assets/images/LOTR/fall.jpg" },
 ];
 
 const booksWrapper = document.querySelector('.books-swiper-wrapper');
