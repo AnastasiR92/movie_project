@@ -1,6 +1,6 @@
 {
   "name": "movie_project",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://anastasiR92.github.io/movie_project/",

@@ -165,15 +165,15 @@ breakpoints: {
 
 
 const books = [
-  { title: "The Hobbit", year: "1937", image: "/movie_project/assets/images/LOTR/hobbit.jpg" },
-  { title: "The Fellowship of the Ring", year: "1954", image: "/movie_project/assets/images/LOTR/fellowship.jpg" },
-  { title: "The Two Towers", year: "1954", image: "/movie_project/assets/images/LOTR/two_towers.jpg" },
-  { title: "The Return of the King", year: "1955", image: "/movie_project/assets/images/LOTR/return.jpg" },
-  { title: "The Silmarillion", year: "1977", image: "/movie_project/assets/images/LOTR/silmarillion.jpg" },
-  { title: "Unfinished Tales of Numenor and Middle-earth", year: "1980", image: "/movie_project/assets/images/LOTR/unfinished.jpg" },
-  { title: "The Children of Hurin", year: "2007", image: "/movie_project/assets/images/LOTR/children.jpg" },
-  { title: "Beren and Luthien", year: "2017", image: "/movie_project/assets/images/LOTR/beren.jpg" },
-  { title: "The Fall of Gondolin", year: "2018", image: "/movie_project/assets/images/LOTR/fall.jpg" },
+  { title: "The Hobbit", year: "1937", image: "./assets/images/LOTR/hobbit.jpg" },
+  { title: "The Fellowship of the Ring", year: "1954", image: "./assets/images/LOTR/fellowship.jpg" },
+  { title: "The Two Towers", year: "1954", image: "./assets/images/LOTR/two_towers.jpg" },
+  { title: "The Return of the King", year: "1955", image: "./assets/images/LOTR/return.jpg" },
+  { title: "The Silmarillion", year: "1977", image: "./assets/images/LOTR/silmarillion.jpg" },
+  { title: "Unfinished Tales of Numenor and Middle-earth", year: "1980", image: "./assets/images/LOTR/unfinished.jpg" },
+  { title: "The Children of Hurin", year: "2007", image: "./assets/images/LOTR/children.jpg" },
+  { title: "Beren and Luthien", year: "2017", image: "./assets/images/LOTR/beren.jpg" },
+  { title: "The Fall of Gondolin", year: "2018", image: "./assets/images/LOTR/fall.jpg" },
 ];
 
 const booksWrapper = document.querySelector('.books-swiper-wrapper');
