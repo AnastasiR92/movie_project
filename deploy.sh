@@ -18,8 +18,9 @@ git commit -m 'deploy'
 
 # если вы деплоите на https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
+git push -f git@github.com:anastasir92/anastasir92.github.io.git master
 
 # если вы деплоите на https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:anastasir92/movie_project.git master:gh-pages
+# git push -f git@github.com:anastasir92/movie_project.git master:gh-pages
 
 cd -
