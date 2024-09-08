@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AnastasiR92.github.io/movie_project",
+  "homepage": "https://anastasiR92.github.io/movie_project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
